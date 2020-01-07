@@ -107,21 +107,23 @@ people-body{
 }
 
 people-span {
-    margin: 10px 10px;
+    margin: 75px 10px;
 }
 
 .person-name {
+  line-height:50px;
   color:#000000;
   position:relative;
-  bottom:0px;
+  bottom:-220px;
   text-align:center;
   height:50px;
   z-index:1;
 }
 .person-desc {
+  line-height:50px;
   color:#000000;
   position:relative;
-  bottom:20px;
+  bottom:-200px;
   text-align:center;
   height:50px;
   width:300px;
@@ -129,20 +131,21 @@ people-span {
   left:-37px;
 }
 .person-desc-2 {
+  line-height:50px;
   color:#000000;
   position:relative;
-  bottom:40px;
+  bottom:-180px;
   text-align:center;
   height:50px;
   width:300px;
   z-index:1;
   left:-37px;
 }
-
-.person-aff {
+.person-desc-3 {
+  line-height:50px;
   color:#000000;
   position:relative;
-  bottom:30px;
+  bottom:-160px;
   text-align:center;
   height:50px;
   width:300px;
@@ -159,44 +162,55 @@ people-span {
 <div class="person-name"><h4>Jean Gautier</h4></div>
 <div class="person-desc">Principal Investigator</div>
 <div class="person-desc-2">Professor, Genetics & Development</div>
-</div>
+<div class="person-desc-3"><a class="u-email" href="mailto:jg130@cumc.columbia.edu">jg130@cumc.columbia.edu</a></div>
 </people-span>
 </people-body>
 
+<div style="height:50px;"></div>
 
 <people-body>
 <people-span class="person-ta2308">
 <div class="person-name"><h4>Tomas Aparicio Casado</h4></div>
 <div class="person-desc">Postdoctoral Research Scientist</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a></div>
 </people-span>
 <people-span class="person-gs2732">
 <div class="person-name"><h4>Gaganpreet Sidhu</h4></div>
 <div class="person-desc">Postdoctoral Research Scientist</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:gs2732@cumc.columbia.edu">gs2732@cumc.columbia.edu</a></div>
 </people-span>
 </people-body>
+
 
 <people-body>
 <people-span class="person-sv2490">
 <div class="person-name"><h4>Soumini Vasan</h4></div>
-<div class="person-desc">Description</div>
+<div class="person-desc">Senior Staff Associate</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:sv2490@cumc.columbia.edu">sv2490@cumc.columbia.edu</a></div>
 </people-span>
 <people-span class="person-jr4034">
 <div class="person-name"><h4>Jorge Reyes</h4></div>
-<div class="person-desc">Description</div>
+<div class="person-desc">Lab Manager</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a></div>
 </people-span>
 </people-body>
+
 
 <people-body>
 <people-span class="person-awl2142">
 <div class="person-name"><h4>Andy Liebau</h4></div>
 <div class="person-desc">PhD Student</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a></div>
 </people-span>
 <people-span class="person-jaz2131">
 <div class="person-name"><h4>Jennifer Zagelbaum-Rose</h4></div>
 <div class="person-desc">MD/PhD Student</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></div>
 </people-span>
 </people-body>
 
+
+<div style="height:125px;"></div>
 
 ----------------
 
