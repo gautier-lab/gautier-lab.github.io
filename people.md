@@ -113,7 +113,7 @@ people-span {
 .person-name {
   line-height:50px;
   font-size:18px;
-  font-weight:10px;
+  font-weight:350;
   color:#000000;
   position:relative;
   bottom:-220px;
