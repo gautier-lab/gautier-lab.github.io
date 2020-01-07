@@ -171,12 +171,12 @@ people-span {
 <people-body>
 <people-span class="person-ta2308">
 <div class="person-name"><h4>Tomas Aparicio Casado</h4></div>
-<div class="person-desc">Postdoctoral Research Scientist</div>
+<div class="person-desc">Associate Research Scientist</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a></div>
 </people-span>
 <people-span class="person-gs2732">
 <div class="person-name"><h4>Gaganpreet Sidhu</h4></div>
-<div class="person-desc">Postdoctoral Research Scientist</div>
+<div class="person-desc">Associate Research Scientist</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:gs2732@cumc.columbia.edu">gs2732@cumc.columbia.edu</a></div>
 </people-span>
 </people-body>
