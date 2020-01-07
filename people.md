@@ -112,6 +112,8 @@ people-span {
 
 .person-name {
   line-height:50px;
+  font-size:20px;
+  font-weight:10px;
   color:#000000;
   position:relative;
   bottom:-220px;
@@ -159,7 +161,7 @@ people-span {
 
 <people-body>
 <people-span class="person-jg130">
-<div class="person-name"><h4>Jean Gautier</h4></div>
+<div class="person-name">Jean Gautier</div>
 <div class="person-desc">Principal Investigator</div>
 <div class="person-desc-2">Professor, Genetics & Development</div>
 <div class="person-desc-3"><a class="u-email" href="mailto:jg130@cumc.columbia.edu">jg130@cumc.columbia.edu</a></div>
@@ -170,12 +172,12 @@ people-span {
 
 <people-body>
 <people-span class="person-ta2308">
-<div class="person-name"><h4>Tomas Aparicio Casado</h4></div>
+<div class="person-name">Tomas Aparicio Casado</div>
 <div class="person-desc">Associate Research Scientist</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a></div>
 </people-span>
 <people-span class="person-gs2732">
-<div class="person-name"><h4>Gaganpreet Sidhu</h4></div>
+<div class="person-name">Gaganpreet Sidhu</div>
 <div class="person-desc">Associate Research Scientist</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:gs2732@cumc.columbia.edu">gs2732@cumc.columbia.edu</a></div>
 </people-span>
@@ -184,12 +186,12 @@ people-span {
 
 <people-body>
 <people-span class="person-sv2490">
-<div class="person-name"><h4>Soumini Vasan</h4></div>
+<div class="person-name">Soumini Vasan</div>
 <div class="person-desc">Senior Staff Associate</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:sv2490@cumc.columbia.edu">sv2490@cumc.columbia.edu</a></div>
 </people-span>
 <people-span class="person-jr4034">
-<div class="person-name"><h4>Jorge Reyes</h4></div>
+<div class="person-name">Jorge Reyes</div>
 <div class="person-desc">Lab Manager</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a></div>
 </people-span>
@@ -198,12 +200,12 @@ people-span {
 
 <people-body>
 <people-span class="person-awl2142">
-<div class="person-name"><h4>Andy Liebau</h4></div>
+<div class="person-name">Andy Liebau</div>
 <div class="person-desc">PhD Student</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a></div>
 </people-span>
 <people-span class="person-jaz2131">
-<div class="person-name"><h4>Jennifer Zagelbaum-Rose</h4></div>
+<div class="person-name">Jennifer Zagelbaum-Rose</div>
 <div class="person-desc">MD/PhD Student</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></div>
 </people-span>
