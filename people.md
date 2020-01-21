@@ -105,6 +105,16 @@ people-body{
   background:url('/assets/img/people/jaz2131.jpg');
   background-size:cover;
 }
+.person-aa4497{
+  border: 1px solid #000000;
+  display: inline-block;
+  height: 225px;
+  width: 225px;
+  text-align: center;
+  line-height: 500px;
+  color: #FFFFFF;
+  z-index:2;
+}
 
 people-span {
     margin: 75px 10px;
@@ -209,6 +219,15 @@ people-span {
 <div class="person-name">Jennifer Zagelbaum-Rose</div>
 <div class="person-desc">MD/PhD Student</div>
 <div class="person-desc-2"><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></div>
+</people-span>
+</people-body>
+
+
+<people-body>
+<people-span class="person-aa4497">
+<div class="person-name">Arooba Ahmed</div>
+<div class="person-desc">Undergraduate Student</div>
+<div class="person-desc-2"><a class="u-email" href="mailto:aa4497@columbia.edu">aa4497@columbia.edu</a></div>
 </people-span>
 </people-body>
 
