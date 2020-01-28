@@ -114,6 +114,8 @@ people-body{
   line-height: 500px;
   color: #FFFFFF;
   z-index:2;
+  background:url('/assets/img/people/aa4497.jpg');
+  background-size:cover;
 }
 
 people-span {
