@@ -18,12 +18,8 @@ div.gallery img {
   height: auto;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .responsive {
-  padding: 0 2px;
+  padding: 0 auto;
   float: left;
   width: 24.99999%;
 }
@@ -114,6 +110,7 @@ div.gallery img {
 }
 
 </style>
+
 
 <div id="myNav" class="overlay">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
