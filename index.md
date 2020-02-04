@@ -9,20 +9,15 @@ layout: home
       <div class="slide-partial slide-right"><img src="/assets/img/1-right.jpg"/></div>
     </li>
     <li class="slide">
-      <div class="slide-partial slide-left"><img src="/assets/img/2-left.jpg"/></div>
-      <div class="slide-partial slide-right"><img src="/assets/img/2-right.jpg"/></div>
+      <div class="slide-partial slide-left"><img src="/assets/img/home/Fig2-L.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="/assets/img/home/Fig2-R.jpg"/></div>
     </li>
     <li class="slide">
-      <div class="slide-partial slide-left"><img src="/assets/img/3-left.jpg"/></div>
-      <div class="slide-partial slide-right"><img src="/assets/img/3-right.jpg"/></div>
-    </li>
-    <li class="slide">
-      <div class="slide-partial slide-left"><img src="/assets/img/4-left.jpg"/></div>
-      <div class="slide-partial slide-right"><img src="/assets/img/4-right.jpg"/></div>
+      <div class="slide-partial slide-left"><img src="/assets/img/home/Fig3-L.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="/assets/img/home/Fig3-R.jpg"/></div>
     </li>
   </ul>
   <ul id="slide-select">
-    <li class="selector"></li>
     <li class="selector"></li>
     <li class="selector"></li>
     <li class="selector"></li>
