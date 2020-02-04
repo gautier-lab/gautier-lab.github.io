@@ -31,8 +31,4 @@ layout: home
 <div style="height:50px;"></div>
 
 <h2>Our Research</h2> 
-We use Xenopus laevis cell-free extracts to study DNA replication and repair. We are interested in understanding:
-* the mechanism of double-strand break resection with a focus on the role of CtIP
-* the mechanism of double strand break repair pathway choice, and its relevance to cancer development 
-* understanding the mechanism by which cMYC regulates DNA replication
-* the molecular mechanism of replication independent repair (RIR) of DNA interstrand crosslinks 
+The main objective of our research is to better understand the molecular mechanisms responsible for the maintenance of genome stability. These controls are lost in cancer, which is characterized by genomic instability.

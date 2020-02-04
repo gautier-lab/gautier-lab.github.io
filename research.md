@@ -4,13 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-# DNA Double Strand Break Repair 
+The laboratory employs diverse experimental approaches to elucidate the role of 
+genome instability in cancer. Cell-free extracts derived from the egg of the frog
+Xenopus laevis are used as a simple model system to study processes that govern
+genome stability, including DNA replication control, DNA repair, and the cellular
+response to DNA damage. In addition, cultured mammalian cells and mouse
+models are exploited to analyze biological responses to DNA damage.
+We use a range of techniques including proteomics, live-cell imaging, super-resolution microscopy,
+Hi-C and genome-wide translocation sequencing. 
 
-DNA is constantly suffering alterations that threaten the integrity of the information it encodes.
-
-Among all the lesions that occur in the DNA, double strand breaks (DSBs) are the most harmful, since if unrepaired they can lead to a massive loss of genetics material. Aberrancies in the repair of DSBs are specially toxic since they produce chromosomal rearrangements, such as deletions and translocation. Lack of gemone instability results in birth defects, neurodegenerative disorders  and/or cancers. Understanding the molecular mechanism of DSB repair and recombination will give us insight into the causes of these diseases and possibly ways of predicting or preventing them.
-
-Our research is focused on the recognition DSBs by the Ku70/80 complex, the MRN (Mre11/Rad50/Nbs1) complex, the endonuclease CtIP  and how they cooperate to promote the repair of double strand breaks. We are using a combination of biochemistry and mass spectrometry approaches with the vertebrate cell free system of Xenopus llevas egg extracts to elucidate the molecular events that take place on chromatin upon the occurrence of DNA breaks.
-
-# Interstrand Crosslink Repair
+Several specific questions are currently being addressed in this lab.
+* What repair pathways are involved in processing DNA lesions induced by cancer chemotherapeutic drugs? Specifically,
+we examine double-strand break repair and DNA inter-strand crosslink repair.
+* What conditions favor mis-repair of DNA and lead to chromosome rearrangements?
+* What are the molecular origins of oncogene-induced genomic stress?
 
