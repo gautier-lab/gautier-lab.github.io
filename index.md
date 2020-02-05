@@ -139,11 +139,16 @@ layout: home
       <div class="slide-partial slide-right"><img src="/assets/img/home/Slide1-R.gif"/></div>
     </li>
     <li class="slide">
+      <div class="slide-partial slide-left"><img src="/assets/img/home/Slide2-L.gif"/></div>
+      <div class="slide-partial slide-right"><img src="/assets/img/home/Slide2-R.gif"/></div>
+    </li>
+    <li class="slide">
       <div class="slide-partial slide-left"><img src="/assets/img/home/Slide3-L.gif"/></div>
       <div class="slide-partial slide-right"><img src="/assets/img/home/Slide3-R.gif"/></div>
     </li>
   </ul>
   <ul id="slide-select">
+    <li class="selector"></li>
     <li class="selector"></li>
     <li class="selector"></li>
     <li class="selector"></li>
