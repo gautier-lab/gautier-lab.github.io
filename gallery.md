@@ -9,189 +9,215 @@ div.gallery {
   border: 1px solid #ccc;
 }
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
 .responsive {
   padding: 0 auto;
   float: left;
-  width: 24.99999%;
+  width: 20%;
 }
 
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+
+a.lightbox img {
+height: 150px;
+border: 3px solid white;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+margin: 94px 20px 20px 20px;
 }
 
-.overlay {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1000;
-  top: 0;
-  left: 0;
-  background-color: rgb(0,0,0);
-  background-color: rgba(0,0,0, 1);
-  overflow-x: hidden;
-  transition: 0.5s;
+
+.lightbox-target {
+z-index:999999;
+position:absolute;
+width:100%;
+left:0;
+text-align:center;
+background: rgba(0,0,0,1);
+opacity: 0;
+-webkit-transition: opacity .5s ease-in-out;
+-moz-transition: opacity .5s ease-in-out;
+-o-transition: opacity .5s ease-in-out;
+transition: opacity .5s ease-in-out;
+overflow: hidden;
 }
 
-.overlay-content {
-  position: relative;
-  top: 0%;
-  width: 100%;
-  text-align: center;
-  margin-top: 30px;
+/* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
+
+.lightbox-target img {
+margin: auto;
+position: relative;
+right:0;
+bottom: 0;
+max-height: 0%;
+max-width: 0%;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+box-sizing: border-box;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
 }
 
-.overlay a {
-  padding: 8px;
-  text-decoration: none;
-  font-size: 36px;
-  color: #818181;
-  display: block;
-  transition: 0.3s;
+/* Styles the close link, adds the slide down transition */
+
+a.lightbox-close {
+display: block;
+width:50px;
+height:50px;
+box-sizing: border-box;
+color: black;
+text-decoration: none;
+position: absolute;
+top: -80px;
+right: 0;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
 }
 
-.overlay a:hover, .overlay a:focus {
-  color: #f1f1f1;
+/* Provides part of the "X" to eliminate an image from the close link */
+
+a.lightbox-close:before {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: white;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(45deg);
+-moz-transform:rotate(45deg);
+-o-transform:rotate(45deg);
+transform:rotate(45deg);
 }
 
-.overlay .closebtn {
-  position: absolute;
-  top: 20px;
-  right: 45px;
-  font-size: 60px;
-  z-index:1000;
+/* Provides part of the "X" to eliminate an image from the close link */
+
+a.lightbox-close:after {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: white;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(-45deg);
+-moz-transform:rotate(-45deg);
+-o-transform:rotate(-45deg);
+transform:rotate(-45deg);
 }
 
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-  img {
-    width: 100%;
-  }
-  .overlay-content {
-    top:15%;
-  } 
-  .overlay .closebtn {
-    position: absolute;
-    top: -10px;
-    right: 10px;
-    font-size: 45px;
-  }
+/* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
+
+.lightbox-target:target {
+opacity: 1;
+top: 0;
+bottom: 0;
 }
 
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-  img {
-    width: 100%;
-  }
-  .overlay-content {
-    top:15%;
-  } 
-  .overlay .closebtn {
-    position: absolute;
-    top: -10px;
-    right: 10px;
-    font-size: 45px;
-  }
+.lightbox-target:target img {
+max-height: 100%;
+max-width: 100%;
+}
+
+.lightbox-target:target a.lightbox-close {
+top: 0px;
 }
 
 </style>
 
-
-<div id="myNav" class="overlay">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <div class="overlay-content">
-    <img src="" width="50%" id="myImg">
-  </div>
+<a class="responsive" href="#12">
+  <img src="/assets/img/gallery/12.png">
+</a>
+<div class="lightbox-target" id="12">
+   <img src="/assets/img/gallery/12.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/12.png')">
-      <img src="/assets/img/gallery/12.png">
-  </div>
+<a class="responsive" href="#11">
+  <img src="/assets/img/gallery/11.png">
+</a>
+<div class="lightbox-target" id="11">
+   <img src="/assets/img/gallery/11.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/11.png')">
-      <img src="/assets/img/gallery/11.png">
-  </div>
+<a class="responsive" href="#10">
+  <img src="/assets/img/gallery/10.png">
+</a>
+<div class="lightbox-target" id="10">
+   <img src="/assets/img/gallery/10.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/10.png')">
-      <img src="/assets/img/gallery/10.png">
-  </div>
+<a class="responsive" href="#9">
+  <img src="/assets/img/gallery/9.png">
+</a>
+<div class="lightbox-target" id="9">
+   <img src="/assets/img/gallery/9.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/9.png')">
-      <img src="/assets/img/gallery/9.png">
-  </div>
+<a class="responsive" href="#8">
+  <img src="/assets/img/gallery/8.png">
+</a>
+<div class="lightbox-target" id="8">
+   <img src="/assets/img/gallery/8.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/8.png')">
-      <img src="/assets/img/gallery/8.png">
-  </div>
+<a class="responsive" href="#7">
+  <img src="/assets/img/gallery/7.png">
+</a>
+<div class="lightbox-target" id="7">
+   <img src="/assets/img/gallery/7.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/7.png')">
-      <img src="/assets/img/gallery/7.png">
-  </div>
+<a class="responsive" href="#6">
+  <img src="/assets/img/gallery/6.png">
+</a>
+<div class="lightbox-target" id="6">
+   <img src="/assets/img/gallery/6.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+<a class="responsive" href="#5">
+  <img src="/assets/img/gallery/5.png">
+</a>
+<div class="lightbox-target" id="5">
+   <img src="/assets/img/gallery/5.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+<a class="responsive" href="#4">
+  <img src="/assets/img/gallery/4.png">
+</a>
+<div class="lightbox-target" id="4">
+   <img src="/assets/img/gallery/4.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+<a class="responsive" href="#3">
+  <img src="/assets/img/gallery/3.png">
+</a>
+<div class="lightbox-target" id="3">
+   <img src="/assets/img/gallery/3.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+<a class="responsive" href="#2">
+  <img src="/assets/img/gallery/2.png">
+</a>
+<div class="lightbox-target" id="2">
+   <img src="/assets/img/gallery/2.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
+<a class="responsive" href="#1">
+  <img src="/assets/img/gallery/1.png">
+</a>
+<div class="lightbox-target" id="1">
+   <img src="/assets/img/gallery/1.png"/>
+   <a class="lightbox-close" href="#"></a>
 </div>
 
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/6.png')">
-      <img src="/assets/img/gallery/6.png">
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/5.png')">
-      <img src="/assets/img/gallery/5.png">
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/4.png')">
-      <img src="/assets/img/gallery/4.png">
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/3.png')">
-      <img src="/assets/img/gallery/3.png">
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/2.png')">
-      <img src="/assets/img/gallery/2.png">
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery" onclick="openNav('/assets/img/gallery/1.png')">
-      <img src="/assets/img/gallery/1.png">
-  </div>
-</div>
-
-<div class="clearfix"></div>
 
 <script>
 function openNav(imgFileName) {
