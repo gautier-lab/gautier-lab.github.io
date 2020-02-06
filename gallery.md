@@ -21,6 +21,9 @@ permalink: /gallery/
     border: 0px;
     width:100%;
   }
+  .responsive:hover {
+    border: 0px;
+  }
   .lightbox-target {
     visibility:hidden;
   }
@@ -30,6 +33,9 @@ permalink: /gallery/
   .responsive {
     border: 0px;
     width:50%;
+  }
+  .responsive:hover {
+    border: 0px;
   }
   .lightbox-target {
     visibility:hidden;
