@@ -241,4 +241,3 @@ people-span {
 <br/><br/>
 
 # [Alumni](/alumni)
-# [Gallery](/gallery) 

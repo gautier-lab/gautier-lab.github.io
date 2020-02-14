@@ -47,25 +47,29 @@ a.lightbox img {
   position:absolute;
   width:100%;
   left:0;
+  top:0;
   text-align:center;
   background: rgba(0,0,0,1);
-  opacity: 0;
+  opacity: 1;
   -webkit-transition: opacity .5s ease-in-out;
   -moz-transition: opacity .5s ease-in-out;
   -o-transition: opacity .5s ease-in-out;
   transition: opacity .5s ease-in-out;
-  overflow: hidden;
 }
 
 .lightbox-target img {
-  margin: auto;
-  position: relative;
+  margin: 0 auto;
+  display:block;
+  position: absolute;
+  top:0;
+  left:0;
   right:0;
   bottom: 0;
   max-height: 0%;
   max-width: 0%;
   box-shadow: 0px 0px 8px rgba(0,0,0,.3);
   box-sizing: border-box;
+  overflow:hidden;
   -webkit-transition: .5s ease-in-out;
   -moz-transition: .5s ease-in-out;
   -o-transition: .5s ease-in-out;
@@ -120,6 +124,8 @@ a.lightbox-close:after {
 
 .lightbox-target:target {
   opacity: 1;
+  display:block;
+  height:200vh;
   top: 0;
   bottom: 0;
 }
