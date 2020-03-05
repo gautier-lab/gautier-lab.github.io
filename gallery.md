@@ -141,6 +141,7 @@ a.lightbox-close:after {
 
 </style>
 
+<div class="responsive-m"><img src="/assets/img/gallery/13.png"></div>
 <div class="responsive-m"><img src="/assets/img/gallery/12.png"></div>
 <div class="responsive-m"><img src="/assets/img/gallery/11.png"></div>
 <div class="responsive-m"><img src="/assets/img/gallery/10.png"></div>
@@ -154,6 +155,7 @@ a.lightbox-close:after {
 <div class="responsive-m"><img src="/assets/img/gallery/2.png"></div>
 <div class="responsive-m"><img src="/assets/img/gallery/1.png"></div>
 
+<a class="responsive" href="#13"><img src="/assets/img/gallery/13.png"></a>
 <a class="responsive" href="#12"><img src="/assets/img/gallery/12.png"></a>
 <a class="responsive" href="#11"><img src="/assets/img/gallery/11.png"></a>
 <a class="responsive" href="#10"><img src="/assets/img/gallery/10.png"></a>
@@ -167,6 +169,10 @@ a.lightbox-close:after {
 <a class="responsive" href="#2"><img src="/assets/img/gallery/2.png"></a>
 <a class="responsive" href="#1"><img src="/assets/img/gallery/1.png"></a>
 
+<div class="lightbox-target" id="13">
+   <img src="/assets/img/gallery/13.png"/>
+   <a class="lightbox-close" href="#"></a>
+</div>
 <div class="lightbox-target" id="12">
    <img src="/assets/img/gallery/12.png"/>
    <a class="lightbox-close" href="#"></a>
