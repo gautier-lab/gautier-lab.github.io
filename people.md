@@ -13,8 +13,8 @@ people-body{
   background: #FE4365;
   border: 3px solid #73AD21;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 200px;
   color: #FFFFFF;
@@ -24,8 +24,8 @@ people-body{
 .person-jg130{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -33,11 +33,22 @@ people-body{
   background:url('/assets/img/people/jg130.jpg');
   background-size:cover;
 }
+.person-jm5092{
+  border: 1px solid #000000;
+  display: inline-block;
+  height: 350px;
+  width: 350px;
+  text-align: center;
+  line-height: 500px;
+  color: #FFFFFF;
+  z-index:2;
+  background-size:cover;
+}
 .person-ta2308{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -48,8 +59,8 @@ people-body{
 .person-gs2732{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -60,8 +71,8 @@ people-body{
 .person-sv2490{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -72,8 +83,8 @@ people-body{
 .person-jr4034{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -84,8 +95,8 @@ people-body{
 .person-awl2142{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -96,8 +107,8 @@ people-body{
 .person-jaz2131{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -108,8 +119,8 @@ people-body{
 .person-aa4497{
   border: 1px solid #000000;
   display: inline-block;
-  height: 225px;
-  width: 225px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   line-height: 500px;
   color: #FFFFFF;
@@ -119,7 +130,7 @@ people-body{
 }
 
 people-span {
-    margin: 75px 10px;
+    margin: 75px 20px;
 }
 
 .person-name {
@@ -127,45 +138,41 @@ people-span {
   font-size:18px;
   color:#000000;
   position:relative;
-  bottom:-220px;
+  bottom:-350px;
   text-align:center;
   height:50px;
   z-index:1;
-  width:300px;
-  left:-37px;
+  margin:auto;
 }
 .person-desc {
   line-height:50px;
   color:#000000;
   position:relative;
-  bottom:-200px;
+  bottom:-330px;
   text-align:center;
   height:50px;
-  width:300px;
   z-index:1;
-  left:-37px;
+  margin:auto;
 }
 .person-desc-2 {
   line-height:50px;
   color:#000000;
   position:relative;
-  bottom:-180px;
+  bottom:-310px;
   text-align:center;
   height:50px;
-  width:300px;
   z-index:1;
-  left:-37px;
+  margin:auto;
 }
 .person-desc-3 {
   line-height:50px;
   color:#000000;
   position:relative;
-  bottom:-160px;
+  bottom:-290px;
   text-align:center;
   height:50px;
-  width:300px;
   z-index:1;
-  left:-37px;
+  margin:auto;
 }
 
 </style>
@@ -182,6 +189,15 @@ people-span {
 </people-body>
 
 <div style="height:50px;"></div>
+
+<people-body>
+<people-span class="person-jm5092">
+<div class="person-name">Jaewon Min</div>
+<div class="person-desc">Assistant Professor of Pathology and Cell Biology</div>
+<div class="person-desc-2">(in the Institute of Cancer Genetics) at CUMC</div>
+<div class="person-desc-3"><a class="u-email" href="mailto:jm5092@cumc.columbia.edu">jm5092@cumc.columbia.edu</a></div>
+</people-span>
+</people-body>
 
 <people-body>
 <people-span class="person-ta2308">
