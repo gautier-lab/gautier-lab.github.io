@@ -26,7 +26,7 @@ td,th {
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jm5092.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Jaewon Min</th></tr>
-<tr><td>Assistant Professor, Pathology and Cell Biology (in the Institute of Cancer Genetics) at CUMC</td></tr> 
+<tr><td>Assistant Professor, Pathology and Cell Biology (in the Institute for Cancer Genetics) at CUMC</td></tr> 
 <tr><td><a class="u-email" href="mailto:jm5092@cumc.columbia.edu">jm5092@cumc.columbia.edu</a></td></tr> 
 </table>
 
