@@ -177,80 +177,59 @@ people-span {
 
 </style>
 
-
-
-<people-body>
-<people-span class="person-jg130">
-<div class="person-name">Jean Gautier</div>
-<div class="person-desc">Principal Investigator</div>
-<div class="person-desc-2">Professor, Genetics & Development</div>
-<div class="person-desc-3"><a class="u-email" href="mailto:jg130@cumc.columbia.edu">jg130@cumc.columbia.edu</a></div>
-</people-span>
-</people-body>
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/jg130.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Jean Gautier|
+|Principal Invesigator|
+|Professor, Genetics and Development| 
+|<a class="u-email" href="mailto:jg130@cumc.columbia.edu">jg130@cumc.columbia.edu</a>|
 
 <div style="height:50px;"></div>
 
-<people-body>
-<people-span class="person-jm5092">
-<div class="person-name">Jaewon Min</div>
-<div class="person-desc">Assistant Professor of Pathology and Cell Biology</div>
-<div class="person-desc-2">(in the Institute of Cancer Genetics) at CUMC</div>
-<div class="person-desc-3"><a class="u-email" href="mailto:jm5092@cumc.columbia.edu">jm5092@cumc.columbia.edu</a></div>
-</people-span>
-</people-body>
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/jm5092.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Jaewon Min|
+|Assistant Professor, Pathology and Cell Biology (in the Institute of Cancer Genetics) at CUMC| 
+|<a class="u-email" href="mailto:jm5092@cumc.columbia.edu">jm5092@cumc.columbia.edu</a>|
 
-<people-body>
-<people-span class="person-ta2308">
-<div class="person-name">Tomas Aparicio Casado</div>
-<div class="person-desc">Associate Research Scientist</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a></div>
-</people-span>
-<people-span class="person-gs2732">
-<div class="person-name">Gaganpreet Sidhu</div>
-<div class="person-desc">Associate Research Scientist</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:gs2732@cumc.columbia.edu">gs2732@cumc.columbia.edu</a></div>
-</people-span>
-</people-body>
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/ta2308.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Tomas Aparicio Casado|
+|Associate Research Scientist|
+|<a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a>|
 
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/gs2732.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Gaganpreet Sidhu|
+|Associate Research Scientist|
+|<a class="u-email" href="mailto:gs2732@cumc.columbia.edu">gs2732@cumc.columbia.edu</a>|
 
-<people-body>
-<people-span class="person-sv2490">
-<div class="person-name">Soumini Vasan</div>
-<div class="person-desc">Senior Staff Associate</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:sv2490@cumc.columbia.edu">sv2490@cumc.columbia.edu</a></div>
-</people-span>
-<people-span class="person-jr4034">
-<div class="person-name">Jorge Reyes</div>
-<div class="person-desc">Lab Manager</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a></div>
-</people-span>
-</people-body>
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/jr4034.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Jorge Reyes|
+|Lab Manager| 
+|<a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a>|
 
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/awl2142.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Andy Liebau|
+|PhD Student| 
+|<a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a>|
 
-<people-body>
-<people-span class="person-awl2142">
-<div class="person-name">Andy Liebau</div>
-<div class="person-desc">PhD Student</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a></div>
-</people-span>
-<people-span class="person-jaz2131">
-<div class="person-name">Jennifer Zagelbaum-Rose</div>
-<div class="person-desc">MD/PhD Student</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></div>
-</people-span>
-</people-body>
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/jaz2131.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Jennifer Zagelbaum-Rose|
+|MD/PhD Student| 
+|<a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a>|
+
+|<img style="display:inline-block;height:350px;width:350px;background:url('/assets/img/people/aa4497.jpg');background-size:cover;background-position:center top">|
+|:---:|
+|Arooba Ahmed|
+|Undergraduate Student| 
+|<a class="u-email" href="mailto:aa4497@columbia.edu">aa4497@columbia.edu</a>|
 
 
-<people-body>
-<people-span class="person-aa4497">
-<div class="person-name">Arooba Ahmed</div>
-<div class="person-desc">Undergraduate Student</div>
-<div class="person-desc-2"><a class="u-email" href="mailto:aa4497@columbia.edu">aa4497@columbia.edu</a></div>
-</people-span>
-</people-body>
-
-
-<div style="height:125px;"></div>
+<div style="height:50px;"></div>
 
 ----------------
 
