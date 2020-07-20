@@ -4,8 +4,9 @@ title: Alumni
 permalink: /alumni/
 ---
 
-  Name  | 
+  Name  | Current Position
   ------------- | -------------
+  Soumini Vasan | 
   Mai Sato  | 
   Crystal Waters  | 
   Yu Tao  | Assistant Professor, Laboratory of Biomaterials and Translational Medicine, Sun Yat-sen University 
