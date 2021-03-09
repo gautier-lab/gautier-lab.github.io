@@ -9,11 +9,13 @@ table {
   width:100%;
   margin:auto;
   display:inline-table;
+  border-collapse:unset;
+  border: 1px solid #000000;
 }
 table td, table th {
   text-align:center;
-  background-color:#ffffff;
-  border:1px solid #ffffff;
+  background-color:##1d4f91;
+  border:1px solid ##1d4f91;
 }
 .table-container {
   text-align:center;
