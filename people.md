@@ -14,8 +14,9 @@ table {
 }
 table td, table th {
   text-align:center;
-  background-color:#ffffff;
-  border:1px solid #ffffff;
+  background-color:#dedede;
+  border:1px solid #dedede;
+  border-collapse:collapse;
 }
 .table-container {
   text-align:center;
@@ -83,7 +84,7 @@ table td, table th {
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jr4034.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Jorge Reyes</th></tr>
-<tr><td>Lab Manager & Research Technician</td></tr> 
+<tr><td>Research Technician</td></tr> 
 <tr><td><a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a></td></tr> 
 </table>
 </div>
