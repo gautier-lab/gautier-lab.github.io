@@ -13,8 +13,8 @@ table {
 }
 table td, table th {
   text-align:center;
-  background-color:#dedede;
-  border:1px solid #dedede;
+  background-color:#f0f0f0;
+  border:1px solid #f0f0f0;
   border-collapse:collapse;
 }
 .table-container {
