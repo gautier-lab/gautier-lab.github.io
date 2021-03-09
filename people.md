@@ -10,7 +10,7 @@ table {
   margin:auto;
   display:inline-table;
 }
-td,th {
+table td, table th {
   text-align:center;
   background-color:#ffffff;
   border:1px solid #ffffff;
