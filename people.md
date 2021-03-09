@@ -12,6 +12,8 @@ table {
 }
 td,th {
   text-align:center;
+  background-color:#ffffff;
+  border:1px solid #ffffff;
 }
 .table-container {
   text-align:center;
