@@ -12,7 +12,12 @@ table {
   border-collapse:unset;
   border: 1px solid #000000;
 }
-table td, table th {
+table td {
+  text-align:center;
+  background-color:##1d4f91;
+  border:1px solid ##1d4f91;
+}
+table tr {
   text-align:center;
   background-color:##1d4f91;
   border:1px solid ##1d4f91;
