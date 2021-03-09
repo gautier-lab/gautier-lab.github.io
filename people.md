@@ -9,7 +9,6 @@ table {
   width:100%;
   margin:auto;
   display:inline-table;
-  border-collapse:unset;
   border: 1px solid #000000;
 }
 table td, table th {
