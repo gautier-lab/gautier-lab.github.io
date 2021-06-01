@@ -6,6 +6,7 @@ permalink: /alumni/
 
   Name  | Current Position
   ------------- | -------------
+  Yunyune Wang | 
   Soumini Vasan | 
   Mai Sato  | 
   Crystal Waters  | 

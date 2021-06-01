@@ -139,86 +139,81 @@ a.lightbox-close:after {
   top: 0px;
 }
 
+
+table {
+  width:100%;
+  margin:auto;
+  display:inline-table;
+}
+td,th {
+  text-align:center;
+}
+.table-container {
+  text-align:center;
+}
+.spacer {
+  height:0px;
+}
+@media (min-width:600px) {
+  table {
+    width:24%;
+  }
+  .spacer {
+    height:10px; 
+  }
+}
+
 </style>
 
-<div class="responsive-m"><img src="/assets/img/gallery/13.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/12.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/11.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/10.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/9.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/8.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/7.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/6.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/5.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/4.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/3.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/2.png"></div>
-<div class="responsive-m"><img src="/assets/img/gallery/1.png"></div>
+<div class="table-container">
+<table>
+<tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/13.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/12.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/11.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/10.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+</div>
 
-<a class="responsive" href="#13"><img src="/assets/img/gallery/13.png"></a>
-<a class="responsive" href="#12"><img src="/assets/img/gallery/12.png"></a>
-<a class="responsive" href="#11"><img src="/assets/img/gallery/11.png"></a>
-<a class="responsive" href="#10"><img src="/assets/img/gallery/10.png"></a>
-<a class="responsive" href="#9"><img src="/assets/img/gallery/9.png"></a>
-<a class="responsive" href="#8"><img src="/assets/img/gallery/8.png"></a>
-<a class="responsive" href="#7"><img src="/assets/img/gallery/7.png"></a>
-<a class="responsive" href="#6"><img src="/assets/img/gallery/6.png"></a>
-<a class="responsive" href="#5"><img src="/assets/img/gallery/5.png"></a>
-<a class="responsive" href="#4"><img src="/assets/img/gallery/4.png"></a>
-<a class="responsive" href="#3"><img src="/assets/img/gallery/3.png"></a>
-<a class="responsive" href="#2"><img src="/assets/img/gallery/2.png"></a>
-<a class="responsive" href="#1"><img src="/assets/img/gallery/1.png"></a>
 
-<div class="lightbox-target" id="13">
-   <img src="/assets/img/gallery/13.png"/>
-   <a class="lightbox-close" href="#"></a>
+<div class="table-container">
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/9.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/8.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/7.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/6.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
 </div>
-<div class="lightbox-target" id="12">
-   <img src="/assets/img/gallery/12.png"/>
-   <a class="lightbox-close" href="#"></a>
+
+<div class="table-container">
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/5.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/4.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/3.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
+<table>
+<tr><td><img style="display:inline-block;height:250px;width:100%;background:url('/assets/img/gallery/2.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
 </div>
-<div class="lightbox-target" id="11">
-   <img src="/assets/img/gallery/11.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="10">
-   <img src="/assets/img/gallery/10.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="9">
-   <img src="/assets/img/gallery/9.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="8">
-   <img src="/assets/img/gallery/8.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="7">
-   <img src="/assets/img/gallery/7.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="6">
-   <img src="/assets/img/gallery/6.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="5">
-   <img src="/assets/img/gallery/5.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="4">
-   <img src="/assets/img/gallery/4.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="3">
-   <img src="/assets/img/gallery/3.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="2">
-   <img src="/assets/img/gallery/2.png"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
-<div class="lightbox-target" id="1">
-   <img src="/assets/img/gallery/1.png"/>
-   <a class="lightbox-close" href="#"></a>
+
+<div class="table-container">
+<table>
+<tr><td><img style="display:inline-block;height:50vh;width:100%;background:url('/assets/img/gallery/1.jpg');background-size:cover;background-position:center"></td></tr>
+</table>
 </div>
 

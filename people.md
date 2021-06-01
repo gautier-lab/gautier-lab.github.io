@@ -75,16 +75,16 @@ table td, table th {
 
 <div class="table-container">
 <table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/yw2406.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Yunyue Wang</th></tr>
-<tr><td>Associate Research Scientist</td></tr> 
-<tr><td><a class="u-email" href="mailto:yw2406@cumc.columbia.edu">yw2406@cumc.columbia.edu</a></td></tr> 
-</table>
-<table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jr4034.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Jorge Reyes</th></tr>
 <tr><td>Research Technician</td></tr> 
 <tr><td><a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a></td></tr> 
+</table>
+<table>
+<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/dm3694.jpg');background-size:cover;background-position:center top"></th></tr>
+<tr><th>Devin Mediratta</th></tr>
+<tr><td>Research Technician</td></tr> 
+<tr><td><a class="u-email" href="mailto:dm3694@cumc.columbia.edu">dm3694@cumc.columbia.edu</a></td></tr> 
 </table>
 </div>
 
@@ -113,12 +113,6 @@ table td, table th {
 <tr><th>Arooba Ahmed</th></tr>
 <tr><td>Undergraduate Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:aa4497@columbia.edu">aa4497@columbia.edu</a></td></tr> 
-</table>
-<table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/pfc2113.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Portia Cummings</th></tr>
-<tr><td>Undergraduate Student</td></tr> 
-<tr><td><a class="u-email" href="mailto:pfc2113@columbia.edu">pfc2113@columbia.edu</a></td></tr> 
 </table>
 </div>
 
