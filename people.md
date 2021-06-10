@@ -109,6 +109,12 @@ table td, table th {
 
 <div class="table-container">
 <table>
+<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/es3513.jpg');background-size:cover;background-position:center top"></th></tr>
+<tr><th>Eva Schwartz</th></tr>
+<tr><td>PhD Student</td></tr> 
+<tr><td><a class="u-email" href="mailto:es3513@cumc.columbia.edu">es3513@cumc.columbia.edu</a></td></tr> 
+</table>
+<table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/aa4497.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Arooba Ahmed</th></tr>
 <tr><td>Undergraduate Student</td></tr> 
