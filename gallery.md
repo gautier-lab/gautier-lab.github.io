@@ -167,7 +167,7 @@ td,th {
 
 <div class="table-container">
 <table>
-<tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/13.jpg');background-size:cover;background-position:center"></td></tr>
+<tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/13.png');background-size:cover;background-position:center"></td></tr>
 </table>
 <table>
 <tr><td><img style="display:inline-block;height:275px;width:100%;background:url('/assets/img/gallery/12.jpg');background-size:cover;background-position:center"></td></tr>
