@@ -156,7 +156,7 @@ td,th {
 }
 @media (min-width:600px) {
   table {
-    width:24%;
+    width:30%;
   }
   .spacer {
     height:10px; 
