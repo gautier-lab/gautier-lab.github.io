@@ -16,7 +16,7 @@ var pubmedSummaryAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.f
 var database = "db=pubmed";
 var returnmode = "&retmode=json";
 var returnmax = "&retmax=100";
-var searchterm = "&term=(((Gautier, Jean[Author]) AND Institute for Cancer Genetics[Affiliation])) OR ((Gautier, Jean[Author]) AND Institute of Cancer Genetics[Affiliation])";
+var searchterm = "&term=(((Gautier, Jean[Author]) AND (Institute for Cancer Genetics[Affiliation])) OR ((Gautier, Jean[Author]) AND (Institute of Cancer Genetics[Affiliation])) OR ((Gautier, Jean[Author]) AND (Department of Genetics and Development[Affiliation])))";
 var returntype = "&rettype=abstract";
 var idURL = pubmedSearchAPI + database + returnmode + returnmax + searchterm
 console.log(idURL);
