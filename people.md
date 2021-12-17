@@ -47,17 +47,6 @@ table td, table th {
 
 <div class="table-container">
 <table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jm5092.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Jaewon Min</th></tr>
-<tr><td>Assistant Professor, Pathology and Cell Biology (in the Institute for Cancer Genetics) at CUMC</td></tr> 
-<tr><td><a class="u-email" href="mailto:jm5092@cumc.columbia.edu">jm5092@cumc.columbia.edu</a></td></tr> 
-</table>
-</div>
-
-<div class="spacer"></div>
-
-<div class="table-container">
-<table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/ta2308.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Tomas Aparicio Casado</th></tr>
 <tr><td>Associate Research Scientist</td></tr> 
@@ -75,45 +64,39 @@ table td, table th {
 
 <div class="table-container">
 <table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jr4034.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Jorge Reyes</th></tr>
-<tr><td>Research Technician</td></tr> 
-<tr><td><a class="u-email" href="mailto:jr4034@cumc.columbia.edu">jr4034@cumc.columbia.edu</a></td></tr> 
-</table>
-<table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/dm3694.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Devin Mediratta</th></tr>
 <tr><td>Research Technician</td></tr> 
 <tr><td><a class="u-email" href="mailto:dm3694@cumc.columbia.edu">dm3694@cumc.columbia.edu</a></td></tr> 
 </table>
-</div>
-
-<div class="spacer"></div>
-
-<div class="table-container">
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/awl2142.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Andy Liebau</th></tr>
 <tr><td>PhD Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a></td></tr> 
 </table>
-<table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jaz2131.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Jennifer Zagelbaum-Rose</th></tr>
-<tr><td>MD/PhD Student</td></tr> 
-<tr><td><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></td></tr> 
-</table>
 </div>
 
 <div class="spacer"></div>
 
 <div class="table-container">
 <table>
+<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jaz2131.jpg');background-size:cover;background-position:center top"></th></tr>
+<tr><th>Jennifer Zagelbaum-Rose</th></tr>
+<tr><td>MD/PhD Student</td></tr> 
+<tr><td><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></td></tr> 
+</table>
+<table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/es3513.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Eva Schwartz</th></tr>
 <tr><td>PhD Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:es3513@cumc.columbia.edu">es3513@cumc.columbia.edu</a></td></tr> 
 </table>
+</div>
+
+<div class="spacer"></div>
+
+<div class="table-container">
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/aa4497.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Arooba Ahmed</th></tr>
