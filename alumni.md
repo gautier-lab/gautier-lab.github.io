@@ -6,8 +6,9 @@ permalink: /alumni/
 
   Name  | Current Position
   ------------- | -------------
+  Jorge Reyes | PhD Student, Massachusetts Institute of Technology 
   Yunyune Wang | 
-  Soumini Vasan | 
+  Soumini Vasan | Laboratory Director, Oxsed 
   Mai Sato  | 
   Crystal Waters  | 
   Yu Tao  | Assistant Professor, Laboratory of Biomaterials and Translational Medicine, Sun Yat-sen University 
