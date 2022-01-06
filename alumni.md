@@ -6,8 +6,9 @@ permalink: /alumni/
 
   Name  | Current Position
   ------------- | -------------
+  Jaewon Min | Assistant Professor of Pathology and Cell Biology (Institute for Cancer Genetics), Columbia University 
   Jorge Reyes | PhD Student, Massachusetts Institute of Technology 
-  Yunyune Wang | 
+  Yunyue Wang | 
   Soumini Vasan | Laboratory Director, Oxsed 
   Mai Sato  | 
   Crystal Waters  | 
