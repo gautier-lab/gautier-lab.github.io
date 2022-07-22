@@ -8,8 +8,10 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     eventmachine (1.2.7-x86-mingw32)
+    ffi (1.11.3)
     ffi (1.11.3-x64-mingw32)
     ffi (1.11.3-x86-mingw32)
     forwardable-extended (2.6.0)
@@ -59,6 +61,8 @@ GEM
       ffi (~> 1.0)
     rouge (3.14.0)
     safe_yaml (1.0.5)
+    sassc (2.2.1)
+      ffi (~> 1.9)
     sassc (2.2.1-x64-mingw32)
       ffi (~> 1.9)
     sassc (2.2.1-x86-mingw32)
@@ -66,7 +70,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2019.3)
       tzinfo (>= 1.0.0)
@@ -76,6 +80,7 @@ GEM
 PLATFORMS
   x64-mingw32
   x86-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.0.0)
