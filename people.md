@@ -52,12 +52,6 @@ table td, table th {
 <tr><td>Associate Research Scientist</td></tr> 
 <tr><td><a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a></td></tr> 
 </table>
-<table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/gs2732.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Gaganpreet Sidhu</th></tr>
-<tr><td>Associate Research Scientist</td></tr> 
-<tr><td><a class="u-email" href="mailto:gs2732@cumc.columbia.edu">gs2732@cumc.columbia.edu</a></td></tr> 
-</table>
 </div>
 
 <div class="spacer"></div>
