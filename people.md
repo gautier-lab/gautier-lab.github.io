@@ -58,12 +58,6 @@ table td, table th {
 
 <div class="table-container">
 <table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/dm3694.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Devin Mediratta</th></tr>
-<tr><td>Research Technician</td></tr> 
-<tr><td><a class="u-email" href="mailto:dm3694@cumc.columbia.edu">dm3694@cumc.columbia.edu</a></td></tr> 
-</table>
-<table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/awl2142.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Andy Liebau</th></tr>
 <tr><td>PhD Student</td></tr> 
@@ -74,12 +68,6 @@ table td, table th {
 <div class="spacer"></div>
 
 <div class="table-container">
-<table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jaz2131.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Jennifer Zagelbaum-Rose</th></tr>
-<tr><td>MD/PhD Student</td></tr> 
-<tr><td><a class="u-email" href="mailto:jaz2131@cumc.columbia.edu">jaz2131@cumc.columbia.edu</a></td></tr> 
-</table>
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/es3513.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Eva Schwartz</th></tr>
