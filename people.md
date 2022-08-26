@@ -36,7 +36,7 @@ table td, table th {
 <div class="table-container">
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/jg130.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Jean Gautier</th></tr>
+<tr><th>Jean Gautier, Ph.D.</th></tr>
 <tr><td>Principal Invesigator</td></tr>
 <tr><td>Professor, Genetics and Development</td></tr> 
 <tr><td><a class="u-email" href="mailto:jg130@cumc.columbia.edu">jg130@cumc.columbia.edu</a></td></tr>
@@ -48,7 +48,7 @@ table td, table th {
 <div class="table-container">
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/ta2308.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Tomas Aparicio Casado</th></tr>
+<tr><th>Tomas Aparicio Casado, Ph.D.</th></tr>
 <tr><td>Associate Research Scientist</td></tr> 
 <tr><td><a class="u-email" href="mailto:ta2308@cumc.columbia.edu">ta2308@cumc.columbia.edu</a></td></tr> 
 </table>
@@ -60,7 +60,7 @@ table td, table th {
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/awl2142.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Andy Liebau</th></tr>
-<tr><td>PhD Student</td></tr> 
+<tr><td>Ph.D. Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a></td></tr> 
 </table>
 </div>
@@ -71,7 +71,7 @@ table td, table th {
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/es3513.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Eva Schwartz</th></tr>
-<tr><td>PhD Student</td></tr> 
+<tr><td>Ph.D. Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:es3513@cumc.columbia.edu">es3513@cumc.columbia.edu</a></td></tr> 
 </table>
 </div>
