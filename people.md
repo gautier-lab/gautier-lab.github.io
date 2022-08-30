@@ -94,7 +94,7 @@ table td, table th {
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/eht2131.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Ellie Teng</th></tr>
-<tr><td>Lab manager & technician</td></tr>
+<tr><td>Lab Manager & Technician</td></tr>
 <tr><td><a class="u-email" href="mailto:eht2131@cumc.columbia.edu">eht2131@cumc.columbia.edu</a></td></tr>
 </table>
 </div>
