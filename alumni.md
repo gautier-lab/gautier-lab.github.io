@@ -7,7 +7,10 @@ permalink: /alumni/
   Name  | Current Position
   ------------- | -------------
   Jaewon Min | Assistant Professor of Pathology and Cell Biology (Institute for Cancer Genetics), Columbia University 
-  Jorge Reyes | PhD Student, Massachusetts Institute of Technology 
+  Gaganpreet Sidhu | Head of Genomics & Traits at Meiogenix
+  Jennifer Zagelbaum | M.D./Ph.D. Candidate, Cellular, Molecular, & Biochemical Studies 
+  Jorge Reyes | PhD Student, Massachusetts Institute of Technology   
+  Devin Mediratta |
   Yunyue Wang | 
   Soumini Vasan | Laboratory Director, Oxsed 
   Mai Sato  | 
