@@ -73,6 +73,11 @@ table td, table th {
 <tr><th>Eva Schwartz</th></tr>
 <tr><td>Ph.D. Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:es3513@cumc.columbia.edu">es3513@cumc.columbia.edu</a></td></tr> 
+
+<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/lx2282.jpg');background-size:cover;background-position:center top"></th></tr>
+<tr><th>Lillian Xue</th></tr>
+<tr><td>Ph.D. Student</td></tr>
+<tr><td><a class="u-email" href="mailto:lx2282@columbia.edu">lx2282@columbia.edu</a></td></tr>
 </table>
 </div>
 
