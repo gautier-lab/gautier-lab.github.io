@@ -86,7 +86,7 @@ table td, table th {
 
 <div class="table-container">
 <table>
-<tr><th><img style="display:inline-block;height:200px;width:200px;background:url('/assets/img/people/aa4497_updated.jpg');background-size:cover;background-position:center top"></th></tr>
+<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/aa4497_updated.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Arooba Ahmed</th></tr>
 <tr><td>Undergraduate Student</td></tr> 
 <tr><td><a class="u-email" href="mailto:aa4497@columbia.edu">aa4497@columbia.edu</a></td></tr> 
