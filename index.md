@@ -3,7 +3,6 @@ layout: home
 ---
 
 <script src="{{ base.url | prepend: site.url }}/assets/js/index.js"></script>
-# adding favicon
 <link rel="favicon" type="image/jpg" href=""/> 
 <style>
 
