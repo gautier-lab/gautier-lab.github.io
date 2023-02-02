@@ -60,7 +60,7 @@ table td, table th {
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/rowyn.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Rowyn Liebau</th></tr>
-<tr><td>Ph.D. Student</td></tr> 
+<tr><td>Ph.D. Candidate</td></tr> 
 <tr><td><a class="u-email" href="mailto:awl2142@columbia.edu">awl2142@columbia.edu</a></td></tr> 
 </table>
 </div>
