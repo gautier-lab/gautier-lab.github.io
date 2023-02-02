@@ -10,7 +10,7 @@ permalink: /gallery/
   padding: 0 auto;
   border: 1px solid black;
   float: left;
-  width: 24%;
+  width: 50%;
   visibility:visible;
 }
 .responsive:hover {
@@ -154,7 +154,7 @@ td,th {
 .spacer {
   height:0px;
 }
-@media (min-width:800px) {
+@media (min-width:600px) {
   table {
     width:30%;
   }
