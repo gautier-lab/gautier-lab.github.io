@@ -35,7 +35,7 @@ permalink: /gallery/
 }
 
 a.lightbox img {
-  height: 300px;
+  height: 150px;
   border: 3px solid white;
   box-shadow: 0px 0px 8px rgba(0,0,0,.3);
   margin: 94px 20px 20px 20px;
@@ -154,7 +154,7 @@ td,th {
 .spacer {
   height:0px;
 }
-@media (min-width:600px) {
+@media (min-width:1000px) {
   table {
     width:30%;
   }
