@@ -10,7 +10,7 @@ permalink: /gallery/
   padding: 0 auto;
   border: 1px solid black;
   float: left;
-  width: 50%;
+  width: 24%;
   visibility:visible;
 }
 .responsive:hover {
@@ -25,7 +25,7 @@ permalink: /gallery/
   display:none;
 }
 
-@media (max-width:800px) {
+@media (max-width:1000px) {
   .responsive {
     display:none;
   }
