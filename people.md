@@ -93,22 +93,13 @@ table td, table th {
 </table>
 <table>
 <tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/eht2131.jpg');background-size:cover;background-position:center top"></th></tr>
-<tr><th>Marsha Paulema Darbouze</th></tr>
-<tr><td>Undergraduate Student</td></tr>
-<tr><td><a class="u-email" href="mailto:mpd2152@columbia.edu">mpd2152@columbia.edu</a></td></tr>
-</table>
-</div>
-
-<div class="spacer"></div>
-
-<div class="table-container">
-<table>
-<tr><th><img style="display:inline-block;height:300px;width:300px;background:url('/assets/img/people/eht2131.jpg');background-size:cover;background-position:center top"></th></tr>
 <tr><th>Ellie Teng</th></tr>
 <tr><td>Lab Manager & Technician</td></tr>
 <tr><td><a class="u-email" href="mailto:eht2131@cumc.columbia.edu">eht2131@cumc.columbia.edu</a></td></tr>
 </table>
 </div>
+
+<div class="spacer"></div>
 
 <div style="height:50px;"></div>
 
