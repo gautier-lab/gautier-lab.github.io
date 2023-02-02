@@ -167,12 +167,6 @@ td,th {
 
 <div class="table-container">
 <table>
-<tr><td><img style="display:inline-block;height:300px;width:100%;background:url('/assets/img/gallery/14.jpeg');background-size:cover;background-position:center"></td></tr>
-</table>
-</div>
-
-<div class="table-container">
-<table>
 <tr><td><img style="display:inline-block;height:300px;width:100%;background:url('/assets/img/gallery/13.png');background-size:cover;background-position:center"></td></tr>
 </table>
 <table>
