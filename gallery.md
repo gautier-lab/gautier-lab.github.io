@@ -154,7 +154,7 @@ td,th {
 .spacer {
   height:0px;
 }
-@media (min-width:1000px) {
+@media (min-width:600px) {
   table {
     width:30%;
   }
