@@ -25,7 +25,7 @@ permalink: /gallery/
   display:none;
 }
 
-@media (max-width:1000px) {
+@media (max-width:800px) {
   .responsive {
     display:none;
   }
@@ -35,7 +35,7 @@ permalink: /gallery/
 }
 
 a.lightbox img {
-  height: 150px;
+  height: 300px;
   border: 3px solid white;
   box-shadow: 0px 0px 8px rgba(0,0,0,.3);
   margin: 94px 20px 20px 20px;
