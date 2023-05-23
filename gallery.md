@@ -6,21 +6,6 @@ permalink: /gallery/
 
 <style>
 
-.zoom {
-  padding: 50px;
-  background-color: url('/assets/img/gallery/1.jpg');
-  transition: transform .2s; /* Animation */
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
-}
-
-.zoom:hover {
-  transform: scale(1.5);
-}
-
-<div class="zoom"></div>
-
 .responsive {
   padding: 0 auto;
   border: 1px solid black;
