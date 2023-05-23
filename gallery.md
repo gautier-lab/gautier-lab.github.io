@@ -217,12 +217,7 @@ td,th {
 <div class="table-container">
 <table>
 <tr><td> 
-
-<img src=url"('/assets/img/gallery/1.jpg')"
-        onclick="enlargeImg()"
-        id="img1" />
-
-
+<img style="display:inline-block;height:300px;width:100%;background:url('/assets/img/gallery/1.jpg');background-size:cover;background-position:center">
 </td></tr>
 </table>
 </div>
